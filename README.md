@@ -1,12 +1,12 @@
 # Decoding the function of Long Non-Coding RNAs in Subgroup 3 Medulloblastoma: Integrative SNP and eQTL Analysis
 
-[![Read Thesis](https://img.shields.io/badge/Read-Thesis-red)]([link_to_thesis](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/blob/main/Tesi%20Finished.pdf))
-
-👋 Welcome to the repository for my bachelor's degree thesis on the topic of "Decoding the function of Long Non-Coding RNAs in Subgroup 3 Medulloblastoma: Integrative SNP and eQTL Analysis"! In this project, I used a bioinformatics pipeline to investigate the role of long non-coding RNAs (lncRNAs) in medulloblastoma, a malignant brain tumor primarily affecting children worldwide. My aim was to gain insight on the regulatory activity of three specific lncRNAs that depend on the MYC oncogene in Medulloblastoma (MB).
+👋 Welcome to the repository for my bachelor's degree thesis "Decoding the function of Long Non-Coding RNAs in Subgroup 3 Medulloblastoma: Integrative SNP and eQTL Analysis"! In this project, I used a bioinformatics pipeline to investigate the role of long non-coding RNAs (lncRNAs) in medulloblastoma, a malignant brain tumor primarily affecting children worldwide. My aim was to gain insight on the regulatory activity of three specific lncRNAs that depend on the MYC oncogenic transcription factor in Medulloblastoma (MB).
 
 🔍 To summarize my findings in a visually appealing way, I've included an infographic as a PDF file in this repository. You can view it directly below:
 
-![Infographic_page-0001](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/assets/92098565/160caa17-bcf8-40bf-93e5-8e2a030265e8)
+<p align="center">
+ <img src="https://github.com/Nicogreco2001/BioinformaticsThesisRepo/assets/92098565/160caa17-bcf8-40bf-93e5-8e2a030265e8" alt="Infographic_page-0001" width="650"/>
+</p>
 
 📄 To get a comprehensive understanding of my research, take a moment to read my full thesis, available [here]([link_to_thesis](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/blob/main/Tesi%20Finished.pdf)). The thesis delves into the fascinating connections between lncRNAs, expression quantitative trait loci (eQTLs), and nearby genes. I also reveal the effects of genetic variations on the function and stability of the lncMB1 RNA molecule.
 
