@@ -6,7 +6,7 @@
 
 🔍 To summarize my findings in a visually appealing way, I've included an infographic as a PDF file in this repository. You can view it directly below:
 
-![Infographic]([path_to_infographic.pdf](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/blob/main/Infographic.pdf))
+![Infographic_page-0001](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/assets/92098565/160caa17-bcf8-40bf-93e5-8e2a030265e8)
 
 📄 To get a comprehensive understanding of my research, take a moment to read my full thesis, available [here]([link_to_thesis](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/blob/main/Tesi%20Finished.pdf)). The thesis delves into the fascinating connections between lncRNAs, expression quantitative trait loci (eQTLs), and nearby genes. I also reveal the effects of genetic variations on the function and stability of the lncMB1 RNA molecule.
 
