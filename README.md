@@ -8,6 +8,7 @@
  <img src="https://github.com/Nicogreco2001/BioinformaticsThesisRepo/assets/92098565/160caa17-bcf8-40bf-93e5-8e2a030265e8" alt="Infographic_page-0001" width="650"/>
 </p>
 
+
 📄 To get a comprehensive understanding of my research, take a moment to read my full thesis, available [here](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/tree/main/R). In my project I developed a bioinformatics pipeline to explore the regulatory roles of long non-coding RNAs (lncRNAs). By looking at expression quantitative trait loci (eQTLs), I tried to link novel lncRNAs to nearby protein coding genes, shedding light on potential target genes that can mediate their oncogenic activity activity.
 
 ✨ Feel free to explore the repository and dive into the [code](https://github.com/Nicogreco2001/BioinformaticsThesisRepo/blob/main/Tesi%20Finished.pdf) I've developed to analyze the data. If you have any questions or suggestions, don't hesitate to reach out to me. I appreciate your interest in my research and hope you find it intriguing!
