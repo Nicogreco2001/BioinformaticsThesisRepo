@@ -1,5 +1,5 @@
 # CODE FOLDERS
-This repository contains the code and data used for my bachelor's degree thesis in bioinformatics. The thesis focuses on exploring the role of long non-coding RNAs (lncRNAs) in medulloblastoma (MB), a malignant brain tumor primarily affecting children worldwide.
+This repository contains the code and data used for my bachelor's degree thesis in bioinformatics. 
 
 ## FOLDERS CONTENT 🗂️
 
