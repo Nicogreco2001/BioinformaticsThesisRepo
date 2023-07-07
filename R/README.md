@@ -1,7 +1,7 @@
-#### CODE FOLDERS
+# CODE FOLDERS
 This repository contains the code and data used for my bachelor's degree thesis in bioinformatics. The thesis focuses on exploring the role of long non-coding RNAs (lncRNAs) in medulloblastoma (MB), a malignant brain tumor primarily affecting children worldwide.
 
-## Folders
+## Folders content
 
 - **dbSNP**: Contains the scripts used for processing and analyzing genetic data downloaded from the dbSNP database. The code includes filtering, organizing, and creating plots related to known polymorphisms within a region of interest close to the genetic coordinates of three specific lncRNAs.
 
